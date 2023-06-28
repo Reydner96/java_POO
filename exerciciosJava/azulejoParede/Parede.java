@@ -1,3 +1,4 @@
+package exerciciosJava.azulejoParede;
 public class Parede {
     public static void main(String[] args) {
         double hp, lp , ha, la, qtd;

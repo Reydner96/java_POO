@@ -1,3 +1,4 @@
+package exerciciosJava.temperatura;
 public class Temperatura {
     public static void main(String[] args) {
         double C, K, F, Re, Ra;

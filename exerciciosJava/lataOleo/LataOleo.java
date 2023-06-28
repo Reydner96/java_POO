@@ -1,3 +1,4 @@
+package exerciciosJava.lataOleo;
 public class LataOleo {
     public static void main(String[] args) {
         double V, R, A;

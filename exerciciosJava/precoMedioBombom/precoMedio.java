@@ -1,3 +1,4 @@
+package exerciciosJava.precoMedioBombom;
 public class precoMedio {
 
   public static void main(String[] args) {

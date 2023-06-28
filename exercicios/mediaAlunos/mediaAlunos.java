@@ -1,4 +1,4 @@
-package exerciciosJava.mediaAlunos;
+package exercicios.mediaAlunos;
 public class mediaAlunos {
 
   public static void main(String[] args) {

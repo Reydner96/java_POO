@@ -1,4 +1,4 @@
-package exerciciosJava.precoMedioBombom;
+package exercicios.precoMedioBombom;
 public class precoMedio {
 
   public static void main(String[] args) {
